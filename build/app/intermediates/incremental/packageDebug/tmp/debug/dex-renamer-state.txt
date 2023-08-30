@@ -1,0 +1,4 @@
+#Wed Aug 30 12:17:32 TRT 2023
+base.0=D\:\\flutter\\tic_tac_toe\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
